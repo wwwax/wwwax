@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Max
-- 👀 I’m a frontend developer
+- 👀 I’m a ninja js coder
