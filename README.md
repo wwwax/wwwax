@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Max
-- 🤖 I’m a react-js developer
+- 🤖 I’m a react developer
